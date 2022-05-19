@@ -6,7 +6,7 @@ import time
 
 print("Welcome to Email Marketing")
 # This can be read from a csv
-emailList = ['21f1002538@student.onlinedegree.iitm.ac.in', 'rishabh22211@gmail.com', 'rishabh11336@gmail.com']
+emailList = ['21xxxxxxxx@student.onlinedegree.iitm.ac.in', 'rxxxxxxxxxxx@gmail.com', 'rxxxxxxxxxxx@gmail.com']
 
 def sendMail(fromEmail, toEmail, subject, message):
   msg = MIMEMultipart()
